@@ -42,10 +42,7 @@ my-node-cli/
 
 ### Commands
 
-- `my-node-cli - name YourName`: Greets you by your name.
-- `my-node-cli option1`: Executes option 1.
-
-For more detailed information on commands, run `my-node-cli --help`.
+- `vanilla-js - name YourName`: Greets you by your name.
 
 ## License
 
