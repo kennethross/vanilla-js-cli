@@ -1,8 +1,8 @@
-# My Node CLI
+# Vanilla JS CLI
 
-My Node CLI is a tool for doing awesome things directly from your terminal.
-Inspired from [This article](https://egmz.medium.com/building-a-cli-with-node-js-in-2024-c278802a3ef5)
-Best practices [This article](https://github.com/lirantal/nodejs-cli-apps-best-practices)
+Vanilla JS CLI is a tool for to create a vanilla JS project with a simple command. 
+It will create a folder with the project name and add the necessary files to get started.
+Inspired from [Building a CLI](https://egmz.medium.com/building-a-cli-with-node-js-in-2024-c278802a3ef5)
 
 ## Installation
 
@@ -12,10 +12,10 @@ npm install -g my-node-cli
 
 ## Usage
 
-To start using My Node CLI, run:
+To start using Vanilla JS CLI, run:
 
 ```bash
-my-node-cli - help
+vanilla-js
 ```
 
 ### Dependencies

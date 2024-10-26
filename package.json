@@ -1,6 +1,6 @@
 {
-  "name": "vanilla-js-cli",
-  "version": "1.0.0",
+  "name": "@k5hr2s/vanilla-js-cli",
+  "version": "1.0.1",
   "description": "A CLI tool to automate the creation of all the default files for vanilla JS project",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "ora": "^8.1.0"
   },
   "bin": {
-    "vanilla-js": "./bin/index.js"
+    "vanilla-js": "bin/index.js"
   },
   "type": "module",
   "devDependencies": {
@@ -26,5 +26,17 @@
     "eslint": "^9.13.0",
     "globals": "^15.11.0",
     "prettier": "^3.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kennethross/vanilla-js-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "vanilla-js"
+  ],
+  "bugs": {
+    "url": "https://github.com/kennethross/vanilla-js-cli/issues"
+  },
+  "homepage": "https://github.com/kennethross/vanilla-js-cli#readme"
 }
