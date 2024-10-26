@@ -1,0 +1,30 @@
+{
+  "name": "vanilla-js-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to automate the creation of all the default files for vanilla JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k5hR2s",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "figlet": "^1.8.0",
+    "inquirer": "^12.0.1",
+    "jsdoc": "^4.0.4",
+    "ora": "^8.1.0"
+  },
+  "bin": {
+    "vanilla-js": "./bin/index.js"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.1.0",
+    "@eslint/js": "^9.13.0",
+    "eslint": "^9.13.0",
+    "globals": "^15.11.0",
+    "prettier": "^3.3.3"
+  }
+}
