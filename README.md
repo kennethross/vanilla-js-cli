@@ -7,7 +7,7 @@ Inspired from [Building a CLI](https://egmz.medium.com/building-a-cli-with-node-
 ## Installation
 
 ```bash
-npm install -g my-node-cli
+npm install -g vanilla-js-cli
 ```
 
 ## Usage
